@@ -1,14 +1,15 @@
 # ✫ About Me:
 
-- 🔬 I’m currently working on a **SaaS School LMS** project, refining my skills in full-stack development.
-- 🌟 I specialize in **MERN stack development** with over 1.5 years of experience, focusing on **scalable and user-friendly applications**.
-- 🔄 I’m exploring **Next.js, NestJS**, and **advanced backend optimizations** for high-performance applications.
+- 🔬 I’m currently working on a **SaaS School LMS** and other SaaS projects, refining my skills in full-stack development.
+- 🌟 I specialize in **MERN stack development** with over 2 years of experience, focusing on **scalable and user-friendly applications**.
+- 🔄 I’m exploring **NestJS**, and **advanced backend optimizations** for high-performance applications.
 - 📚 Passionate about **building modern web applications, freelancing, and collaborating on innovative projects**.
 - 💡 Ask me about **MERN stack, Next.js, scalable architectures, and web performance optimization**.
 - 💌 Reach me at **[LinkedIn](https://www.linkedin.com/in/moeez-butt-6303a524b/)** or check out my **[Portfolio](https://www.moeez.me/)**.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moeez-butt-6303a524b/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moeez-butt-6303a524b/)
+[![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moeez-butt-6303a524b/)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -25,7 +26,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<div align="left">
+<div align="center">
 
 
   ![snake gif](https://github.com/afaqahmad0051/afaqahmad0051/blob/output/github-snake-dark.svg)
