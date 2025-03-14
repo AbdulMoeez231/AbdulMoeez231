@@ -1,4 +1,4 @@
-# ✫ About Me:
+#  About Me:
 
 - 🔬 I’m currently working on a **SaaS School LMS** and other SaaS projects, refining my skills in full-stack development.
 - 🌟 I specialize in **MERN stack development** with over 2 years of experience, focusing on **scalable and user-friendly applications**.
