@@ -9,7 +9,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moeez-butt-6303a524b/)
-[![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moeez-butt-6303a524b/)
+[![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=instagram&logoColor=white)](https://www.instagram.com/abdulmoeez321/)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
