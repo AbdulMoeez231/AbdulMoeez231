@@ -26,9 +26,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <div align="center">
-  
-  ![snake gif](https://github.com/moeez-butt/moeez-butt/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/afaqahmad0051/afaqahmad0051/blob/output/github-snake-dark.svg)
 </div>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=moeez-butt&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
